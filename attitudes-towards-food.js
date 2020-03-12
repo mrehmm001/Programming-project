@@ -19,8 +19,7 @@ function TechDiversityRace() {
       // Callback function to set the value
       // this.loaded to true.
       function(table) {
-        self.loaded = true;
-      });
+        self.loaded = true;      });
   };
 
   this.setup = function() {

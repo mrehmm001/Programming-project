@@ -70,5 +70,8 @@ function Earthquake() {
         
 
     }
+    this.destroy=function(){
+    }
+    
 }
 

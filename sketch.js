@@ -21,6 +21,7 @@ function setup() {
   gallery.addVisual(new NationGDP());   
   gallery.addVisual(new Earthquake());    
   gallery.addVisual(new MeteoriteData());    
+  gallery.addVisual(new PopulationTimeline());    
 }
 
 function draw() {
